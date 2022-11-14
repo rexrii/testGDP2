@@ -4,7 +4,7 @@ import * as Progress from 'react-native-progress'
 import { RadioButton } from 'react-native-paper';
 import Slider from '@react-native-community/slider';
 
-//Test
+//Test2
 class QuizQuestion {
   constructor(question) {
     this.question = question;
